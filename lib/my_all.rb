@@ -15,5 +15,3 @@ end
     true
   end
 end
-
-  
